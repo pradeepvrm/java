@@ -4,6 +4,11 @@ public class Son extends Parent {
 		super(age);
 	}
 
+	@Override
+	void normal() {
+		super.normal();
+	}
+	
     @Override
     void career() {
         System.out.println("I am going to be a doctor.");

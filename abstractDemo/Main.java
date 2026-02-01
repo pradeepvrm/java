@@ -3,10 +3,14 @@ public class Main {
         Son son = new Son(28);
         son.career();
         son.partner();
+
+        son.normal();
         
         Daughter daughter = new Daughter(25);
         daughter.career();
         daughter.partner();
+
+        Parent.hello();
      }
 }
         
