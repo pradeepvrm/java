@@ -1,3 +1,5 @@
+package com.pradeep.abstractDemo;
+
 public abstract class Parent {
 
 	int age;
@@ -11,7 +13,7 @@ public abstract class Parent {
 	}
 
 	void normal() {
-		System.out.println("this is a normal method.")
+		System.out.println("this is a normal method.");
 	}
 
 	

@@ -1,3 +1,5 @@
+package com.pradeep.generics;
+
 // import java.util.ArrayList;
 
 public class CustomArrayList {

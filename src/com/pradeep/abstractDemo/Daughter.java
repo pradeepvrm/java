@@ -1,3 +1,5 @@
+package com.pradeep.abstractDemo;
+
 public class Daughter extends Parent {
 
 	public Daughter(int age) {

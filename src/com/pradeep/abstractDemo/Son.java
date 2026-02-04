@@ -1,6 +1,8 @@
+package com.pradeep.abstractDemo;
+
 public class Son extends Parent {
  
-	pubic Son(int age) {
+	public Son(int age) {
 		super(age);
 	}
 

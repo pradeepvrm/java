@@ -1,3 +1,5 @@
+package com.pradeep.interfaces;
+
 public class Car implements Engine, Brake, Media {
 
 	@Override

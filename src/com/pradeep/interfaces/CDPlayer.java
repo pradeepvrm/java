@@ -1,3 +1,5 @@
+package com.pradeep.interfaces;
+
 public class CDPlayer implements Media {
 
 	@Override

@@ -1,3 +1,5 @@
+package com.pradeep.interfaces;
+
 public interface Engine {
 
 	static final int PRICE = 80000;
