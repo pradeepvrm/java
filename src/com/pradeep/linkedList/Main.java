@@ -12,7 +12,9 @@ public class Main {
         list.insertLast(10);
         list.insertLast(20);
         list.insert(99, 3);
-
+        list.display();
+        System.out.println(list.deleteFirst());
+        System.out.println(list.deleteLast());
         list.display();
 
     }
