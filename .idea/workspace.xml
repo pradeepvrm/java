@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2186af01-a602-4737-ad5e-57c9d04adb1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/com/pradeep/linkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/com/pradeep/linkedList/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pradeep/linkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pradeep/linkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pradeep/linkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pradeep/linkedList/LL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,8 @@
       <workItem from="1770824999551" duration="3983000" />
       <workItem from="1770998642199" duration="1423000" />
       <workItem from="1771001811187" duration="2748000" />
-      <workItem from="1771162444731" duration="6681000" />
+      <workItem from="1771162444731" duration="7927000" />
+      <workItem from="1771342951658" duration="1112000" />
     </task>
     <servers />
   </component>

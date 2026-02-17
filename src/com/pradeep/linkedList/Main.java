@@ -2,7 +2,7 @@ package com.pradeep.linkedList;
 
 public class Main {
     public static void main(String[] args) {
-//        LL list = new LL();
+        LL list = new LL();
 
 //        list.insertFirst(1);
 //        list.insertFirst(2);
@@ -17,14 +17,15 @@ public class Main {
 //        System.out.println(list.deleteLast());
 //        list.display();
 
-        DLL list = new DLL();
+//        DLL list = new DLL();
 
         list.insertFirst(1);
         list.insertFirst(2);
         list.insertFirst(3);
-        list.insertlast(4);
+//        list.insertlast(4);
 
-        list.insert(3, 10);
+//        list.insert(3, 3);
+        list.insertRec(50, 2);
 
         list.display();
 
