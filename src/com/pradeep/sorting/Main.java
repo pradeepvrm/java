@@ -4,10 +4,10 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {4,3,1,2,5};
-        selectionSort sort = new selectionSort();
-        sort.selection(arr);
-        sort.display(arr);
-
+        int[] arr = {5,3,4,2,1};
+        insertionSort sort = new insertionSort();
+        sort.insertion(arr);
+//        sort.display(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }
